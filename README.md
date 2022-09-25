@@ -7,9 +7,9 @@ and also exipirence the usage of GIT repocitory.
 ## About the Game
 This is a single user game. where the user is playing against the computer
 the user enters his choice on the command line as a single chracter as follows
-r for Rock 
-p for paper
-s for scissors
+r for Rock, 
+p for paper, and
+s for scissors.
 The users choice is matched againts the randomly genereated computer choice 
 and the Result will be displayed on the command line as win lose or tie.
 
