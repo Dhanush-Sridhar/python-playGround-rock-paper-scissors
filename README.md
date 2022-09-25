@@ -1,4 +1,4 @@
-#Python Project- Rock Paper Scissors Game
+# Python Project- Rock Paper Scissors Game
 
 ## Agenda
 This project is created as a aim to practice python code 
